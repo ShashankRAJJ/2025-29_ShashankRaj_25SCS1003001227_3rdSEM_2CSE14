@@ -1,5 +1,6 @@
 # 2025-29_ShashankRaj_25SCS1003001227_3rdSEM_2CSE14
-Repository containing my Internship Report, Internship PPT, and Internship Certificate for university evaluation. Internship
+Repository containing my Internship Report, Internship PPT, and Internship Certificate for university evaluation.
+
 
 This repository contains the work and documentation completed during my internship.
 
